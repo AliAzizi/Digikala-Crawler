@@ -1,0 +1,22 @@
+{
+  "name": "digikalacrawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Azizi",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "i": "^0.3.7",
+    "mongodb": "^4.3.0",
+    "mysql": "^2.18.1",
+    "npm": "^8.3.0",
+    "typeorm": "^0.2.41"
+  },
+  "devDependencies": {},
+  "description": ""
+}
