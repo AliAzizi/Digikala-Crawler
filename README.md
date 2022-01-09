@@ -12,6 +12,8 @@ node index.js
 
 ##### Don't forget to hit the star button if you liked it ⭐️
 
+
+## Pull requests are always welcome!
 [![image.png](https://i.postimg.cc/0jL3BMmT/image.png)](https://postimg.cc/p5Jq9dsC)
 
 [![image.png](https://i.postimg.cc/Z5ktfgxW/image.png)](https://postimg.cc/fJvry8Fs)
