@@ -9,4 +9,10 @@ This is not a very clean piece of code, but it is still readable
 ```console
 node index.js
 ```
-[![image.png](https://i.postimg.cc/XvyFgHZ0/image.png)](https://postimg.cc/3yYd8ZCL)
+
+[![image.png](https://i.postimg.cc/0jL3BMmT/image.png)](https://postimg.cc/p5Jq9dsC)
+
+[![image.png](https://i.postimg.cc/Z5ktfgxW/image.png)](https://postimg.cc/fJvry8Fs)
+
+[![image.png](https://i.postimg.cc/9FyCjCMd/image.png)](https://postimg.cc/HVWfwGbn)
+
